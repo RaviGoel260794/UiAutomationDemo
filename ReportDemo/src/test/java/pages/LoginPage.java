@@ -6,5 +6,6 @@ public class LoginPage {
 	//Added a check
 	//See auto trigger
 	//final
+	//Thursday
 
 }
