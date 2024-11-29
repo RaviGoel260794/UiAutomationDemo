@@ -14,4 +14,5 @@ public class LoginPage {
 	//Email
 	//Today's final commit
 	//Thursday commit
+	//Friday morning
 }
